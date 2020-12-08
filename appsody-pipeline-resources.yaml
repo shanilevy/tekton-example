@@ -18,6 +18,6 @@ items:
     - name: revision
       value: master
     - name: url
-      value: GITHUB-SOURCE-URL // Change this
+      value: https://github.com/shanilevy/tekton-example // Change this
     type: git
 kind: List
